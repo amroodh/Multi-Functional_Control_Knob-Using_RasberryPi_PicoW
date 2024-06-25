@@ -1,1 +1,1 @@
-# Smart-Knob-Using_RasberryPi_PicoW
+# Multi-Functional_Control_Knob-Using_RasberryPi_PicoW
